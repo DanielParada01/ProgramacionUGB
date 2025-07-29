@@ -1,0 +1,10 @@
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\bin\Debug\MiPrimerProyectoC#.exe.config
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\bin\Debug\MiPrimerProyectoC#.exe
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\bin\Debug\MiPrimerProyectoC#.pdb
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC#.csproj.AssemblyReference.cache
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC_.Form1.resources
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC_.Properties.Resources.resources
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC#.csproj.GenerateResource.cache
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC#.csproj.CoreCompileInputs.cache
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC#.exe
+C:\Users\Daniel's laptop\Documents\repos01\MiPrimerProyectoC#\MiPrimerProyectoC#\obj\Debug\MiPrimerProyectoC#.pdb

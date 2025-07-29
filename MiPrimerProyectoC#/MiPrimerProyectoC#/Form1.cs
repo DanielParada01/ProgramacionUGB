@@ -26,5 +26,10 @@ namespace MiPrimerProyectoC_
         {
 
         }
+
+        private void btnSaludar_Click(object sender, EventArgs e)
+        {
+            lblHola.Text = "!Hola, " + txbNombre.Text + "!";
+        }
     }
 }
